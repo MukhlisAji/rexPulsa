@@ -9,7 +9,7 @@
 		Shout out : 
 		Ripto Sudiyarno as Front end & Back end Developer And Security Tester
 		Raka Putra Wicaksana as Developer Back End And Security Tester
-		Mukhlis Purnomo Aji as Database Administrator
+		Mukhlis Purnomo Aji as Developer Back End and Database Administrator
 
 
 		2017 We Present this Apps For Ppl that we loved Hehe ~
